@@ -32,5 +32,4 @@ public class CalcularDias {
         // Exibe o resultado no formato "X Anos Y meses e Z dias são equivalentes a N dias."
         System.out.println(calcularIdade + " Anos " + mesNascimento + " mês " + "e " + diasNascimento + " dias são equivalente a " + calcularTotalDeDias + " dias");
     }
-
 }
