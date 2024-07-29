@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.calculardias","l":"Ano"},{"p":"com.calculardias","l":"CalcularDias"},{"p":"com.calculardias","l":"Main"}];updateSearchResults();
